@@ -18,7 +18,7 @@
  </div>
  <br>
  <div style="display: block">
-- 🔭 Procurando por um estagio de programação web  <br>
+- 🔭 Procurando por um estagio na área de programação web  <br>
 - 🌱 Estudando a biblioteca React  <br>
 - 📫 Contacte no email : rodrigoalmeidareis019@gmail.com  <br>
 - 😄 Pronomes: ele/dele  <br>
