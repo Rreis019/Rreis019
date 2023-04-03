@@ -19,5 +19,4 @@
  <br>
  <div style="display: block">
 - 📫 Contacte no email : rodrigoalmeidareis019@gmail.com  <br>
-- 😄 Pronomes: ele/dele  <br>
 </div>
